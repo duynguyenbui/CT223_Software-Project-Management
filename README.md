@@ -1,4 +1,4 @@
-# ***Quản Lý Dự Án Phần Mềm***
+# ***Software Project Management***
 <img src="https://www.ntaskmanager.com/wp-content/uploads/2019/07/3.png" alt="" style="width: 300px; height: auto;">
 
 * Bài Tập Elearning: 3đ 
